@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const SearchInput = styled.input`
   display: block;
   font-family: 'Roboto', sans-serif;
-  width: 500px;
+  width: 320px;
   margin: auto;
   outline: none;
   padding: 13px 15px;
